@@ -26,7 +26,7 @@ import Accordion from "@/components/Accordion";
 export const metadata = {
   title: "Tankless Water Heater Repair in Colorado Springs, CO",
   description:
-    "Colorado Springs' premier tankless water heater repair & dispatch service. Fast local diagnosis for Navien, Rinnai, Noritz. Sized for 6,000 ft altitude. Call (456) 789-0123.",
+    "Colorado Springs' premier tankless water heater repair & dispatch service. Fast local diagnosis for Navien, Rinnai, Noritz. Sized for 6,000 ft altitude. Call (719) 602-1977.",
 };
 
 export default function HomePage() {

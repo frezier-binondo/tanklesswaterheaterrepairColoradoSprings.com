@@ -19,7 +19,7 @@ import PhoneCallerCard from "@/components/PhoneCallerCard";
 export const metadata = {
   title: "Contact Us | Tankless Water Heater Repair in Colorado Springs (Phone-Only)",
   description:
-    "Direct phone contact for tankless water heater repair in Colorado Springs. No slow web forms. 24/7 priority technician dispatch. Call (456) 789-0123.",
+    "Direct phone contact for tankless water heater repair in Colorado Springs. No slow web forms. 24/7 priority technician dispatch. Call (719) 602-1977.",
 };
 
 export default function ContactPage() {

@@ -1,9 +1,9 @@
 export const SITE_CONFIG = {
   brandName: "Tankless Water Heater Repair in Colorado Springs",
   shortBrand: "Colorado Springs Tankless Pros",
-  phone: "14567890123",
-  phoneDisplay: "(456) 789-0123",
-  phoneHref: "tel:14567890123",
+  phone: "17196021977",
+  phoneDisplay: "(719) 602-1977",
+  phoneHref: "tel:17196021977",
   address: {
     street: "Serving Colorado Springs & El Paso County",
     city: "Colorado Springs",

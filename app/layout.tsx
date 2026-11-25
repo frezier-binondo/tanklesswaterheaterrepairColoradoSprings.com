@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     template: "%s",
   },
   description:
-    "Expert tankless water heater repair, installation, and descaling in Colorado Springs, CO. Navien, Rinnai, Noritz certified specialists. Call (456) 789-0123 for immediate dispatch.",
+    "Expert tankless water heater repair, installation, and descaling in Colorado Springs, CO. Navien, Rinnai, Noritz certified specialists. Call (719) 602-1977 for immediate dispatch.",
   keywords: [
     "tankless water heater repair colorado springs",
     "emergency tankless water heater repair colorado springs",

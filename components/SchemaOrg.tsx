@@ -19,7 +19,7 @@ export function LocalBusinessSchema({
     "name": name,
     "alternateName": SITE_CONFIG.shortBrand,
     "url": url,
-    "telephone": "+14567890123",
+    "telephone": `+${SITE_CONFIG.phone}`,
     "priceRange": "$$",
     "description": description,
     "address": {

@@ -23,7 +23,7 @@ import { SERVICES_DATA } from "@/data/servicesData";
 export const metadata = {
   title: "Tankless Water Heater Services in Colorado Springs",
   description:
-    "Explore our complete tankless water heater service directory in Colorado Springs. Emergency repairs, same-day service, gas & electric diagnostics, installation, and descaling. Call (456) 789-0123.",
+    "Explore our complete tankless water heater service directory in Colorado Springs. Emergency repairs, same-day service, gas & electric diagnostics, installation, and descaling. Call (719) 602-1977.",
 };
 
 export default function ServicesPage() {

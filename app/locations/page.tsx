@@ -21,7 +21,7 @@ import { LOCATIONS_DATA } from "@/data/locationsData";
 export const metadata = {
   title: "Tankless Water Heater Service Areas Near Colorado Springs",
   description:
-    "Local tankless water heater repair & installation coverage across Colorado Springs, Monument, Fountain, Manitou Springs, Woodland Park, and Falcon. Call (456) 789-0123.",
+    "Local tankless water heater repair & installation coverage across Colorado Springs, Monument, Fountain, Manitou Springs, Woodland Park, and Falcon. Call (719) 602-1977.",
 };
 
 export default function LocationsHubPage() {

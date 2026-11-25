@@ -25,7 +25,7 @@ export const SERVICES_DATA: Record<string, ServiceItem> = {
     category: "repair",
     heroImage: "/images/services/service-circuit-board-multimeter.jpg",
     metaTitle: "Tankless Water Heater Repair Colorado Springs CO",
-    metaDescription: "Fast, certified tankless water heater repair in Colorado Springs. Fix error codes, cold water, leaks, and ignition failures on Navien, Rinnai, Noritz. Call (456) 789-0123.",
+    metaDescription: "Fast, certified tankless water heater repair in Colorado Springs. Fix error codes, cold water, leaks, and ignition failures on Navien, Rinnai, Noritz. Call (719) 602-1977.",
     primaryKeyword: "tankless water heater repair colorado springs",
     overview: "When your tankless water heater malfunctions in the Pikes Peak region, you need an experienced technician who understands the nuances of forced-draft combustion, electronic control boards, multi-stage copper and stainless steel heat exchangers, and high-altitude gas combustion. We match Colorado Springs homeowners with vetted, insured tankless technicians who arrive equipped with diagnostic manometers, OEM digital error readers, and common factory replacement components.",
     symptoms: [
@@ -73,7 +73,7 @@ export const SERVICES_DATA: Record<string, ServiceItem> = {
     category: "repair",
     heroImage: "/images/services/service-outdoor-van-installation.jpg",
     metaTitle: "Emergency Tankless Water Heater Repair Colorado Springs",
-    metaDescription: "Urgent tankless water heater repair in Colorado Springs. Fast 24/7 dispatch for active leaks, gas odor, and frozen lines. Call (456) 789-0123 immediately.",
+    metaDescription: "Urgent tankless water heater repair in Colorado Springs. Fast 24/7 dispatch for active leaks, gas odor, and frozen lines. Call (719) 602-1977 immediately.",
     primaryKeyword: "emergency tankless water heater repair colorado springs",
     overview: "A tankless water heater emergency—such as an active cabinet water rupture, a scorched electrical odor, an unburned natural gas smell, or complete loss of heating during sub-zero Front Range blizzards—demands rapid, qualified intervention. Our dispatch team connects you with emergency-ready technicians standing by 24/7 across Colorado Springs, Monument, Fountain, and Teller County.",
     symptoms: [
@@ -114,7 +114,7 @@ export const SERVICES_DATA: Record<string, ServiceItem> = {
     category: "repair",
     heroImage: "/images/services/service-outdoor-van-installation.jpg",
     metaTitle: "Same-Day Tankless Water Heater Repair Colorado Springs",
-    metaDescription: "Need your tankless water heater repaired today? Same-day dispatch in Colorado Springs. Most repairs completed in one visit with OEM parts. Call (456) 789-0123.",
+    metaDescription: "Need your tankless water heater repaired today? Same-day dispatch in Colorado Springs. Most repairs completed in one visit with OEM parts. Call (719) 602-1977.",
     primaryKeyword: "same day tankless water heater repair colorado springs",
     overview: "You rely on hot water every single day for showers, sanitation, cooking, and laundry. Waiting days for an appointment is unacceptable. We prioritize same-day service calls for Colorado Springs homeowners, dispatching mobile technicians who carry stocked inventories of igniters, flame sensors, thermistors, flow sensors, water control valves, and circulation cartridges.",
     symptoms: [
@@ -148,7 +148,7 @@ export const SERVICES_DATA: Record<string, ServiceItem> = {
     category: "repair",
     heroImage: "/images/services/service-gas-burner-maintenance.jpg",
     metaTitle: "Gas Tankless Water Heater Repair Colorado Springs",
-    metaDescription: "Certified gas tankless water heater repair in Colorado Springs. Natural gas & LP propane combustion calibration, gas valve repair, and venting fixes. Call (456) 789-0123.",
+    metaDescription: "Certified gas tankless water heater repair in Colorado Springs. Natural gas & LP propane combustion calibration, gas valve repair, and venting fixes. Call (719) 602-1977.",
     primaryKeyword: "gas tankless water heater repair colorado springs",
     overview: "Gas-fired tankless water heaters (natural gas and liquid propane) generate immense thermal power—often requiring 150,000 to 199,000 BTUs—to heat water on demand. At Colorado Springs' 6,000+ foot elevation, the reduced atmospheric oxygen requires exact gas-to-air combustion ratios. An uncalibrated gas valve will produce yellow flames, noxious carbon monoxide, and rapid soot buildup that destroys heat exchangers.",
     symptoms: [
@@ -185,7 +185,7 @@ export const SERVICES_DATA: Record<string, ServiceItem> = {
     category: "repair",
     heroImage: "/images/services/service-circuit-board-multimeter.jpg",
     metaTitle: "Electric Tankless Water Heater Repair Colorado Springs",
-    metaDescription: "Expert electric tankless water heater repair in Colorado Springs. Fix tripped 240V breakers, burned heating elements, and fluctuating temperatures. Call (456) 789-0123.",
+    metaDescription: "Expert electric tankless water heater repair in Colorado Springs. Fix tripped 240V breakers, burned heating elements, and fluctuating temperatures. Call (719) 602-1977.",
     primaryKeyword: "electric tankless water heater repair colorado springs",
     overview: "Whole-home electric tankless water heaters draw significant electrical currents—frequently requiring three to four dedicated 40-amp double-pole breakers (120 to 150 total amps). When an electric unit fails, problems typically stem from calcified immersion heating elements, blown high-limit thermal cutoffs, scorched contactor relays, or flow activation sensor faults.",
     symptoms: [
@@ -221,7 +221,7 @@ export const SERVICES_DATA: Record<string, ServiceItem> = {
     category: "installation",
     heroImage: "/images/services/service-outdoor-van-installation.jpg",
     metaTitle: "Tankless Water Heater Installation Colorado Springs",
-    metaDescription: "Professional tankless water heater installation in Colorado Springs. Certified sizing for 6,000 ft altitude, PPRBD permits, and tank-to-tankless retrofits. Call (456) 789-0123.",
+    metaDescription: "Professional tankless water heater installation in Colorado Springs. Certified sizing for 6,000 ft altitude, PPRBD permits, and tank-to-tankless retrofits. Call (719) 602-1977.",
     primaryKeyword: "tankless water heater installation colorado springs",
     overview: "Upgrading to a high-efficiency tankless water heater frees up 16+ square feet of basement floor space, eliminates the risk of a 50-gallon tank catastrophic flood, and provides continuous, on-demand hot water that never runs out. However, a successful installation in Colorado Springs requires exacting standards: sizing for high-altitude derating, 3/4-inch gas line validation, zero-clearance 2-inch or 3-inch PVC/polypropylene direct venting, and Pikes Peak Regional Building Department (PPRBD) permit compliance.",
     symptoms: [
@@ -261,7 +261,7 @@ export const SERVICES_DATA: Record<string, ServiceItem> = {
     category: "installation",
     heroImage: "/images/services/service-technician-inspection-clipboard.jpg",
     metaTitle: "Tankless Water Heater Replacement Colorado Springs",
-    metaDescription: "Time to replace your aging tankless water heater in Colorado Springs? Seamless replacement, modern condensing efficiency, and full warranty. Call (456) 789-0123.",
+    metaDescription: "Time to replace your aging tankless water heater in Colorado Springs? Seamless replacement, modern condensing efficiency, and full warranty. Call (719) 602-1977.",
     primaryKeyword: "tankless water heater replacement colorado springs",
     overview: "While tankless water heaters boast lifespans of 18 to 25 years—nearly double that of conventional tank units—neglected maintenance, severe hard water scale crusting, or internal heat exchanger pinholes eventually mandate replacement. Upgrading an obsolete non-condensing unit to a modern 0.96 UEF condensing model lowers gas consumption, adds built-in recirculation, and eliminates costly recurring repair bills.",
     symptoms: [
@@ -296,7 +296,7 @@ export const SERVICES_DATA: Record<string, ServiceItem> = {
     category: "maintenance",
     heroImage: "/images/services/service-descaling-flush-bucket.jpg",
     metaTitle: "Tankless Water Heater Maintenance Colorado Springs",
-    metaDescription: "Keep your tankless water heater running at peak efficiency. Professional descaling, flushing, flame rod cleaning & safety inspection in Colorado Springs. Call (456) 789-0123.",
+    metaDescription: "Keep your tankless water heater running at peak efficiency. Professional descaling, flushing, flame rod cleaning & safety inspection in Colorado Springs. Call (719) 602-1977.",
     primaryKeyword: "tankless water heater maintenance colorado springs",
     overview: "Regular annual maintenance is not optional for tankless water heaters in Colorado Springs—it is the single most critical factor in preventing unexpected shutdowns, preserving your 15-year factory warranty, and protecting your equipment from the severe mineral scale generated by Front Range water. Our comprehensive multi-point maintenance protocol restores heat transfer efficiency and extends the working life of your system.",
     symptoms: [
@@ -335,7 +335,7 @@ export const SERVICES_DATA: Record<string, ServiceItem> = {
     category: "maintenance",
     heroImage: "/images/services/service-descaling-flush-bucket.jpg",
     metaTitle: "Tankless Water Heater Flushing Colorado Springs",
-    metaDescription: "Professional tankless water heater flushing in Colorado Springs. Clear sediment, mineral deposits, and scale from your system. Call (456) 789-0123.",
+    metaDescription: "Professional tankless water heater flushing in Colorado Springs. Clear sediment, mineral deposits, and scale from your system. Call (719) 602-1977.",
     primaryKeyword: "tankless water heater flushing colorado springs",
     overview: "Flushing a tankless water heater involves connecting a submersible utility pump and high-pressure washing hoses to the external isolation service ports to circulate cleaning agents through the narrow passages of the heat exchanger. This removes sediment, grit, and lime scale that choke water flow and cause overheating errors.",
     symptoms: [
@@ -369,7 +369,7 @@ export const SERVICES_DATA: Record<string, ServiceItem> = {
     category: "maintenance",
     heroImage: "/images/services/service-descaling-flush-bucket.jpg",
     metaTitle: "Tankless Water Heater Descaling Colorado Springs",
-    metaDescription: "Deep chemical descaling for tankless water heaters in Colorado Springs. Eliminate stubborn calcium buildup and prevent cracked heat exchangers. Call (456) 789-0123.",
+    metaDescription: "Deep chemical descaling for tankless water heaters in Colorado Springs. Eliminate stubborn calcium buildup and prevent cracked heat exchangers. Call (719) 602-1977.",
     primaryKeyword: "tankless water heater descaling colorado springs",
     overview: "In the Pikes Peak region, hard water minerals form a concrete-like crust of calcium carbonate and magnesium sulfate inside the internal waterways of your tankless unit. Just 1/16 of an inch of scale buildup reduces heat transfer efficiency by over 15% and causes localized metal hot spots that lead to cracked heat exchangers. Our chemical descaling service utilizes professional virgin descaling compounds that dissolve 100% of mineral scale without corroding internal copper or stainless steel alloys.",
     symptoms: [
@@ -403,7 +403,7 @@ export const SERVICES_DATA: Record<string, ServiceItem> = {
     category: "problem",
     heroImage: "/images/services/service-digital-multimeter-testing.jpg",
     metaTitle: "Tankless Water Heater Error Codes Colorado Springs",
-    metaDescription: "Flashing error code on your Navien, Rinnai, or Noritz tankless water heater? Clear diagnostic guide and emergency repair in Colorado Springs. Call (456) 789-0123.",
+    metaDescription: "Flashing error code on your Navien, Rinnai, or Noritz tankless water heater? Clear diagnostic guide and emergency repair in Colorado Springs. Call (719) 602-1977.",
     primaryKeyword: "tankless water heater error codes colorado springs",
     overview: "Modern tankless water heaters feature onboard microprocessors that constantly monitor dozens of thermistors, pressure switches, flame ionization rods, and airflow sensors. When an operational parameter deviates from safe factory limits, the computer shuts down the burner and displays a flashing code. Here is how to interpret common codes and when you need professional service.",
     symptoms: [
@@ -440,7 +440,7 @@ export const SERVICES_DATA: Record<string, ServiceItem> = {
     category: "problem",
     heroImage: "/images/services/service-circuit-board-multimeter.jpg",
     metaTitle: "Tankless Heater Not Producing Hot Water",
-    metaDescription: "No hot water from your tankless water heater? Learn why and get fast local repair in Colorado Springs, Monument, and Fountain. Call (456) 789-0123.",
+    metaDescription: "No hot water from your tankless water heater? Learn why and get fast local repair in Colorado Springs, Monument, and Fountain. Call (719) 602-1977.",
     primaryKeyword: "tankless water heater not producing hot water colorado springs",
     overview: "Turning on your shower faucet only to be greeted by icy mountain runoff is a homeowner's nightmare. Because tankless units do not store heated water, every link in the heating chain—water flow detection, gas ignition, combustion air, and heat transfer—must operate flawlessly. When one part stalls, the whole system refuses to deliver hot water.",
     symptoms: [
@@ -474,7 +474,7 @@ export const SERVICES_DATA: Record<string, ServiceItem> = {
     category: "problem",
     heroImage: "/images/services/service-gas-burner-maintenance.jpg",
     metaTitle: "Tankless Water Heater Ignition Problems",
-    metaDescription: "Tankless water heater clicks but won't ignite? Fix flame failures, dirty igniters & gas pressure issues in Colorado Springs. Call (456) 789-0123.",
+    metaDescription: "Tankless water heater clicks but won't ignite? Fix flame failures, dirty igniters & gas pressure issues in Colorado Springs. Call (719) 602-1977.",
     primaryKeyword: "tankless water heater ignition problems colorado springs",
     overview: "When you demand hot water, your tankless unit's control board starts the draft blower fan, opens the electronic gas solenoid valve, and generates high-voltage sparks across the igniter electrodes to light the burner. If ignition fails within 5 to 10 seconds, the system shuts the gas valve to prevent gas accumulation. Understanding why ignition fails gets your hot water back faster.",
     symptoms: [
@@ -508,7 +508,7 @@ export const SERVICES_DATA: Record<string, ServiceItem> = {
     category: "problem",
     heroImage: "/images/services/service-pipe-wrench-valves.jpg",
     metaTitle: "Tankless Water Heater Leak Repair Colorado Springs",
-    metaDescription: "Active leak on your tankless water heater? Fast leak repair in Colorado Springs. Fix cracked heat exchangers, dripping valves & condensate drains. Call (456) 789-0123.",
+    metaDescription: "Active leak on your tankless water heater? Fast leak repair in Colorado Springs. Fix cracked heat exchangers, dripping valves & condensate drains. Call (719) 602-1977.",
     primaryKeyword: "tankless water heater leak repair colorado springs",
     overview: "Water leaking from a tankless water heater should never be ignored. Even a slow drip inside the cabinet can corrode electronic motherboards, short out blower motors, damage drywall, and indicate severe heat exchanger failure. Our local technicians quickly pinpoint whether the leak originates from service valves, condensation drain traps, or internal pressurized plumbing.",
     symptoms: [
@@ -542,7 +542,7 @@ export const SERVICES_DATA: Record<string, ServiceItem> = {
     category: "problem",
     heroImage: "/images/services/service-wiring-diagnostics-gloves.jpg",
     metaTitle: "Tankless Water Heater Flow Sensor Repair Colorado Springs",
-    metaDescription: "Water heater not sensing water flow? Expert flow sensor and turbine repair in Colorado Springs. Restore reliable hot water today. Call (456) 789-0123.",
+    metaDescription: "Water heater not sensing water flow? Expert flow sensor and turbine repair in Colorado Springs. Restore reliable hot water today. Call (719) 602-1977.",
     primaryKeyword: "tankless water heater flow sensor repair colorado springs",
     overview: "The water flow sensor (or flow turbine) is the nerve center of a tankless water heater. When you open a faucet, incoming water spins a tiny magnetic turbine inside the sensor. The sensor sends high-speed digital pulse signals to the microprocessor, communicating exact gallons per minute so the computer knows how high to fire the burner. When mineral scale or sediment locks the turbine, the heater is blind to your demand.",
     symptoms: [
@@ -576,7 +576,7 @@ export const SERVICES_DATA: Record<string, ServiceItem> = {
     category: "brand",
     heroImage: "/images/services/service-gas-burner-maintenance.jpg",
     metaTitle: "Navien Tankless Water Heater Repair Colorado Springs",
-    metaDescription: "Authorized Navien tankless water heater repair in Colorado Springs. NPE-A2, NPE-S2, NPN, NCB diagnostics, E003/E012 errors, and recirculation fixes. Call (456) 789-0123.",
+    metaDescription: "Authorized Navien tankless water heater repair in Colorado Springs. NPE-A2, NPE-S2, NPN, NCB diagnostics, E003/E012 errors, and recirculation fixes. Call (719) 602-1977.",
     primaryKeyword: "navien tankless water heater repair colorado springs",
     overview: "Navien is one of the most widely installed condensing tankless brands in Colorado Springs thanks to its dual stainless steel heat exchangers and innovative ComfortFlow built-in buffer tank and recirculation pump. However, Navien units require specialized diagnostic familiarity to troubleshoot their negative pressure gas valves, digital flow sensors, and secondary condensation recovery systems.",
     symptoms: [
@@ -610,7 +610,7 @@ export const SERVICES_DATA: Record<string, ServiceItem> = {
     category: "brand",
     heroImage: "/images/services/service-pipe-wrench-valves.jpg",
     metaTitle: "Rinnai Tankless Water Heater Repair Colorado Springs",
-    metaDescription: "Fast, certified Rinnai tankless water heater repair in Colorado Springs. Fix error code 10, 11, 12, 14, 25 on SENSEI, RU, RUR, and RL models. Call (456) 789-0123.",
+    metaDescription: "Fast, certified Rinnai tankless water heater repair in Colorado Springs. Fix error code 10, 11, 12, 14, 25 on SENSEI, RU, RUR, and RL models. Call (719) 602-1977.",
     primaryKeyword: "rinnai tankless water heater repair colorado springs",
     overview: "Rinnai is renowned for manufacturing bulletproof commercial and residential tankless systems. The Rinnai SENSEI and older RL/RU series are common across Colorado Springs subdivisions. When a Rinnai unit triggers an error code or produces lukewarm water, technicians must test their copper heat exchangers, proportional gas valves, and electronic bypass valves.",
     symptoms: [
@@ -644,7 +644,7 @@ export const SERVICES_DATA: Record<string, ServiceItem> = {
     category: "brand",
     heroImage: "/images/services/service-technician-inspection-clipboard.jpg",
     metaTitle: "Noritz Tankless Water Heater Repair Colorado Springs",
-    metaDescription: "Professional Noritz tankless water heater repair in Colorado Springs. EZ, NRC, and NR series diagnostics, error code 11, 90, and 72 repairs. Call (456) 789-0123.",
+    metaDescription: "Professional Noritz tankless water heater repair in Colorado Springs. EZ, NRC, and NR series diagnostics, error code 11, 90, and 72 repairs. Call (719) 602-1977.",
     primaryKeyword: "noritz tankless water heater repair colorado springs",
     overview: "Noritz engineered some of the earliest tankless water heaters in North America and remains a premier choice for commercial and luxury homes in Colorado Springs (such as Broadmoor and Kissing Camels). Our network technicians are well-versed in Noritz commercial-grade dual heat exchangers, Quick-Connect dual-unit tandem systems, and EZ-series top-mount water connections.",
     symptoms: [

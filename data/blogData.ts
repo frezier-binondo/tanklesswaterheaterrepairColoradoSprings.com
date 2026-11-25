@@ -34,7 +34,7 @@ export const BLOG_POSTS: BlogPost[] = [
     image: "/images/services/service-gas-burner-maintenance.jpg",
     summary: "Waking up to cold water and a flashing E003 or E012 error on your Navien tankless display? Here is an expert breakdown of why these ignition faults happen at high elevation and how to resolve them safely.",
     metaTitle: "Navien Error Code E003 vs E012: Colorado Springs Diagnosis",
-    metaDescription: "Fix Navien tankless error codes E003 and E012 in Colorado Springs. Learn high-altitude ignition causes, flame sensor testing, and fast repair solutions. Call (456) 789-0123.",
+    metaDescription: "Fix Navien tankless error codes E003 and E012 in Colorado Springs. Learn high-altitude ignition causes, flame sensor testing, and fast repair solutions. Call (719) 602-1977.",
     primaryKeyword: "navien error code 003 colorado springs",
     content: {
       intro: "Navien condensing tankless water heaters (including the popular NPE-240A2 and NPE-240S2 series) are among the most prevalent heating systems installed across newer Colorado Springs subdivisions from Briargate to Meridian Ranch. When a system lockout occurs, the primary culprit is often an ignition-related fault code: E003 or E012. While both codes leave you with cold water, understanding the subtle difference between 'Ignition Failure' and 'Flame Loss' is crucial for rapid diagnosis and repair in our high-altitude mountain environment.",
@@ -335,7 +335,7 @@ export const BLOG_POSTS: BlogPost[] = [
     image: "/images/services/service-digital-multimeter-testing.jpg",
     summary: "Troubleshooting Rinnai SENSEI and luxury series tankless water heaters. Detailed breakdown of error codes 10 (airflow), 11 (ignition), and 12 (flame failure).",
     metaTitle: "Rinnai Error Code 10, 11, 12 Troubleshooting Colorado Springs",
-    metaDescription: "Diagnose Rinnai tankless water heater error code 10, 11, and 12 in Colorado Springs. Gas pressure testing, flame rod cleaning, and air intake fixes. Call (456) 789-0123.",
+    metaDescription: "Diagnose Rinnai tankless water heater error code 10, 11, and 12 in Colorado Springs. Gas pressure testing, flame rod cleaning, and air intake fixes. Call (719) 602-1977.",
     primaryKeyword: "rinnai error code 11 colorado springs",
     content: {
       intro: "Rinnai is known throughout the plumbing trade for exceptional engineering and longevity. Their SENSEI series (including RU199i and RUR199i) delivers outstanding performance in cold climates. However, when an operational disruption occurs, the digital MC-91 temperature controller will flash an alert code. In Colorado Springs, three codes account for over 70% of Rinnai service calls: Code 10, Code 11, and Code 12.",
@@ -455,7 +455,7 @@ export const BLOG_POSTS: BlogPost[] = [
     image: "/images/services/service-pipe-wrench-valves.jpg",
     summary: "Thinking of replacing your 40,000 BTU water tank with a 199,000 BTU tankless unit? Learn why your gas pipe diameter matters, how to calculate CFH, and PPRBD requirements.",
     metaTitle: "Gas Line Sizing for Tankless Water Heaters Colorado Springs",
-    metaDescription: "Gas line sizing guide for 199,000 BTU tankless water heaters in Colorado Springs. Learn pipe diameter requirements, gas meter capacity & PPRBD codes. Call (456) 789-0123.",
+    metaDescription: "Gas line sizing guide for 199,000 BTU tankless water heaters in Colorado Springs. Learn pipe diameter requirements, gas meter capacity & PPRBD codes. Call (719) 602-1977.",
     primaryKeyword: "gas line sizing tankless water heater colorado springs",
     content: {
       intro: "The single most common installation defect found by Pikes Peak Regional Building Department (PPRBD) plumbing inspectors in Colorado Springs is an undersized gas supply line feeding a newly installed tankless water heater. Homeowners frequently assume that because their existing gas water tank had a 1/2-inch pipe, that same pipe will suffice for a tankless unit. In reality, that assumption can starve your furnace, trip your heater, and create dangerous combustion hazards.",

@@ -8,7 +8,7 @@ import PhoneCallerCard from "@/components/PhoneCallerCard";
 export const metadata = {
   title: "About Our Service",
   description:
-    "Learn how we connect Colorado Springs homeowners with vetted, licensed, and insured tankless water heater technicians. Call (456) 789-0123.",
+    "Learn how we connect Colorado Springs homeowners with vetted, licensed, and insured tankless water heater technicians. Call (719) 602-1977.",
 };
 
 export default function AboutPage() {
@@ -107,7 +107,7 @@ export default function AboutPage() {
 
           <PhoneCallerCard
             title="Ready to Connect With a Screened Local Professional?"
-            subtitle="Give our dispatch team a call at (456) 789-0123. Describe your problem and we will route a local technician to your door."
+            subtitle="Give our dispatch team a call at (719) 602-1977. Describe your problem and we will route a local technician to your door."
           />
 
           <div className="text-center text-xs text-slate-500 pt-4">

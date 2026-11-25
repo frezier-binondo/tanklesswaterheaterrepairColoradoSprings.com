@@ -39,7 +39,7 @@ export const LOCATIONS_DATA: Record<string, LocationInfo> = {
     recommendedMaintenance: "Every 9 to 12 months, including intake air filter vacuuming and freeze protection heating coil validation.",
     commonErrorCodes: ["Navien E003 (Flame Failure during high wind)", "Rinnai Code 11 (Ignition fault in thin air)", "Noritz 11 (Burner ignition delay)"],
     metaTitle: "Tankless Water Heater Repair Monument CO",
-    metaDescription: "Fast, reliable tankless water heater repair in Monument, CO. Specialized high-altitude diagnostics for Navien, Rinnai, Noritz in Tri-Lakes & Jackson Creek. Call (456) 789-0123."
+    metaDescription: "Fast, reliable tankless water heater repair in Monument, CO. Specialized high-altitude diagnostics for Navien, Rinnai, Noritz in Tri-Lakes & Jackson Creek. Call (719) 602-1977."
   },
   fountain: {
     slug: "fountain",
@@ -62,7 +62,7 @@ export const LOCATIONS_DATA: Record<string, LocationInfo> = {
     recommendedMaintenance: "Annual descaling and isolation valve flush; sediment screen inspection every 6 months.",
     commonErrorCodes: ["Navien E016 (Heat Exchanger Overheat due to scale)", "Rinnai Code 14 (Thermal fuse tripped)", "Noritz 16 (Outlet temperature abnormal)"],
     metaTitle: "Tankless Water Heater Repair Fountain CO",
-    metaDescription: "Expert tankless water heater repair in Fountain, CO. Serving Mesa Ridge, Cross Creek, and Widefield. Gas and electric troubleshooting. Call (456) 789-0123."
+    metaDescription: "Expert tankless water heater repair in Fountain, CO. Serving Mesa Ridge, Cross Creek, and Widefield. Gas and electric troubleshooting. Call (719) 602-1977."
   },
   "manitou-springs": {
     slug: "manitou-springs",
@@ -85,7 +85,7 @@ export const LOCATIONS_DATA: Record<string, LocationInfo> = {
     recommendedMaintenance: "Strict annual descaling with citric acid and flame sensor wire burnishing.",
     commonErrorCodes: ["Noritz 90 (Combustion abnormal / vent restriction)", "Navien E110 (Exhaust vent blockage)", "Rinnai Code 10 (Air intake obstruction)"],
     metaTitle: "Tankless Water Heater Repair Manitou Springs CO",
-    metaDescription: "Specialized tankless water heater repair in Manitou Springs, CO. Historic home venting, tight-clearance retrofits, and mineral descaling. Call (456) 789-0123."
+    metaDescription: "Specialized tankless water heater repair in Manitou Springs, CO. Historic home venting, tight-clearance retrofits, and mineral descaling. Call (719) 602-1977."
   },
   "woodland-park": {
     slug: "woodland-park",
@@ -108,7 +108,7 @@ export const LOCATIONS_DATA: Record<string, LocationInfo> = {
     recommendedMaintenance: "Bi-annual inspection before and after winter; burner blower cleaning and freeze-stat testing.",
     commonErrorCodes: ["Navien E004 (False flame detection / ionization)", "Rinnai Code 12 (Flame rod ionization current drop)", "Noritz 72 (High-altitude flame rod failure)"],
     metaTitle: "Tankless Water Heater Repair Woodland Park CO",
-    metaDescription: "Alpine tankless water heater repair in Woodland Park, CO. High-altitude gas calibration, propane conversions, and winter freeze recovery. Call (456) 789-0123."
+    metaDescription: "Alpine tankless water heater repair in Woodland Park, CO. High-altitude gas calibration, propane conversions, and winter freeze recovery. Call (719) 602-1977."
   },
   falcon: {
     slug: "falcon",
@@ -131,6 +131,6 @@ export const LOCATIONS_DATA: Record<string, LocationInfo> = {
     recommendedMaintenance: "Every 10 to 12 months with internal water filter cleaning and flow sensor impeller check.",
     commonErrorCodes: ["Navien E027 (Air intake pressure sensor abnormal)", "Rinnai Code 65 (Water flow control valve fault)", "Noritz 12 (Flame failure due to well pressure drop)"],
     metaTitle: "Tankless Water Heater Repair Falcon CO",
-    metaDescription: "Trusted tankless water heater repair in Falcon, CO. Deep well descaling, recirculation pump fixes, and error code service in 80831. Call (456) 789-0123."
+    metaDescription: "Trusted tankless water heater repair in Falcon, CO. Deep well descaling, recirculation pump fixes, and error code service in 80831. Call (719) 602-1977."
   }
 };
