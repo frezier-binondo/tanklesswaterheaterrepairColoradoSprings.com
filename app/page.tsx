@@ -27,6 +27,9 @@ export const metadata = {
   title: "Tankless Water Heater Repair in Colorado Springs, CO",
   description:
     "Colorado Springs' premier tankless water heater repair & dispatch service. Fast local diagnosis for Navien, Rinnai, Noritz. Sized for 6,000 ft altitude. Call (719) 602-1977.",
+  verification: {
+    google: "vgAI8qUWXDKPRMUykke8idiUWf4ybdLA5l-Qz80QvpM",
+  },
 };
 
 export default function HomePage() {
