@@ -122,6 +122,11 @@ export default function Footer() {
             </h4>
             <ul className="space-y-2 text-xs">
               <li>
+                <Link href="/services/water-heater-repair" className="text-slate-300 hover:text-white font-medium transition-colors">
+                  Water Heater Repair (Gas & Electric)
+                </Link>
+              </li>
+              <li>
                 <Link href="/tankless-water-heater-repair" className="text-slate-400 hover:text-white transition-colors">
                   Tankless Water Heater Repair (Core)
                 </Link>

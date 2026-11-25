@@ -8,6 +8,15 @@ const nextConfig = {
       },
     ],
   },
+  async redirects() {
+    return [
+      {
+        source: '/water-heater-repair',
+        destination: '/services/water-heater-repair',
+        permanent: true,
+      },
+    ];
+  },
 };
 
 export default nextConfig;

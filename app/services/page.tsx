@@ -113,6 +113,29 @@ export default function ServicesPage() {
             {/* Repair Sub-Pages Grid */}
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
               
+              <div className="drainhaus-card p-6 bg-white border-2 border-brand-orange/40 rounded-xl flex flex-col justify-between shadow-sm hover:shadow-md transition-shadow">
+                <div>
+                  <div className="w-10 h-10 rounded-lg bg-red-100 text-brand-orange flex items-center justify-center mb-4">
+                    <Flame className="w-5 h-5" />
+                  </div>
+                  <div className="text-[11px] font-bold uppercase tracking-wider text-brand-orange mb-1">
+                    Gas & Electric Storage
+                  </div>
+                  <h3 className="font-heading font-bold text-navy-950 text-lg mb-2">
+                    Water Heater Repair
+                  </h3>
+                  <p className="text-slate-600 text-xs leading-relaxed mb-4">
+                    Comprehensive multi-point diagnostics, thermocouple replacements, dual 4500W electric elements, and electronic gas control valve repairs across Colorado Springs.
+                  </p>
+                </div>
+                <Link
+                  href="/services/water-heater-repair"
+                  className="in-content-link text-xs font-bold inline-flex items-center gap-1 text-brand-orange hover:underline"
+                >
+                  <span>Water Heater Repair Details →</span>
+                </Link>
+              </div>
+
               <div className="drainhaus-card p-6 bg-slate-50 border border-slate-200 flex flex-col justify-between">
                 <div>
                   <div className="w-10 h-10 rounded-lg bg-red-100 text-red-600 flex items-center justify-center mb-4">

@@ -94,6 +94,13 @@ export default function Header() {
                     Repair Silo
                   </div>
                   <Link
+                    href="/services/water-heater-repair"
+                    className="flex items-center gap-2.5 px-3 py-2 text-sm font-medium text-slate-800 hover:bg-slate-50 hover:text-brand-orange rounded-lg transition-colors"
+                  >
+                    <Flame className="w-4 h-4 text-brand-orange" />
+                    <span>Water Heater Repair</span>
+                  </Link>
+                  <Link
                     href="/tankless-water-heater-repair"
                     className="flex items-center gap-2.5 px-3 py-2 text-sm font-medium text-slate-800 hover:bg-slate-50 hover:text-brand-orange rounded-lg transition-colors"
                   >
@@ -308,6 +315,13 @@ export default function Header() {
                 className="block px-3 py-2 text-sm font-semibold text-navy-900 hover:text-brand-orange"
               >
                 All Services Overview
+              </Link>
+              <Link
+                href="/services/water-heater-repair"
+                onClick={() => setMobileMenuOpen(false)}
+                className="block px-3 py-1.5 text-sm font-medium text-slate-800 hover:text-brand-orange"
+              >
+                Water Heater Repair
               </Link>
               <Link
                 href="/tankless-water-heater-repair"
